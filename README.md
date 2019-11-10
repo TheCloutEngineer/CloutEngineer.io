@@ -1,5 +1,6 @@
-# Portfolio story starter for Gridsome
+# HappyCoder Dev Portfolio
 
+This is a portfolio site to showcase my side projects.
 
 > A starter template for Gridsome for designers and developers to tell stories about their work.
 
