@@ -59,6 +59,7 @@ export default {
     z-index: 3;
     width: 100%;
     height: 100%;
+    color: white;
   }
 
   &-title {
@@ -93,6 +94,7 @@ export default {
 .work-image {
   min-width: 100%;
 }
+
 @media screen and (max-width: 625px) {
   .work-card {
     width: 90%;

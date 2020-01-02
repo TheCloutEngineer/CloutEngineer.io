@@ -1,11 +1,11 @@
 ---
-title: Markdown test file
-date: 2019-02-06
+title: Project Phlask
+date: 2020-01-01
 published: true
-tags: [design, mobile]
-client: Hapi
-role: Product Design
-link: example.com
+tags: [Open Source, Career]
+client: Code For Philly
+role: Developer & Project Maintainer
+link: phlask.me/find-water
 cover_image: 'https://images.unsplash.com/photo-1472772224448-b24d00409675?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80'
 description: "Markdown is intended to be as easy-to-read and easy-to-write as is feasible. Readability, however, is emphasized above all else. A Markdown-formatted document should be publishable as-is, as plain text, without looking like it's been marked up with tags or formatting instructions."
 ---

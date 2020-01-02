@@ -3,7 +3,7 @@
     <header class="header">
       <div class="navigation-bar">
         <strong>
-          <g-link to="/">{{ $static.metadata.siteName }}</g-link>
+          <g-link class="nav__link" to="/">{{ $static.metadata.siteName }}</g-link>
         </strong>
         <nav v-if="showNav" class="nav">
           <g-link class="nav__link" to="/">Work</g-link>
@@ -19,7 +19,11 @@
     <footer class="footer">
       <div class="footer__content">
         <p>
-          Built with 🍻 by
+          Re-design by
+          <a target="_blank" href="//github.com/Ksaboor">Khalil Saboor</a>
+        </p>
+        <p>
+          Template Built by
           <a target="_blank" href="//edmundekott.me">Edmund Ekott</a>
         </p>
         <p>
@@ -99,9 +103,10 @@ export default {
   background: var(--bg-footer);
   height: 200px;
   display: flex;
-  align-items: center;
-  justify-content: center;
-  text-align: center;
+  align-items: baseline;
+  /*justify-content: center;*/
+  /*text-align: center;*/
+  color: #FFFEF7;
 
   p {
     a {

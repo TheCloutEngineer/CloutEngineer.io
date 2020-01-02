@@ -15,7 +15,7 @@
         </p>
         <p class="work-details">
           <strong>Role</strong>
-          <span>{{$page.work.client}}</span>
+          <span>{{$page.work.role}}</span>
         </p>
         <p class="work-details">
           <strong>Link</strong>
@@ -67,7 +67,7 @@ export default {
     }
 
     & a.work-link {
-      color: #ffffff;
+      color: #394655;
     }
   }
 }

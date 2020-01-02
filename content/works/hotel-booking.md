@@ -1,9 +1,9 @@
 ---
-title: Hotel booking app
+title: Hotel booking app (WIP)
 date: 2019-04-06
 published: true
 tags: [mobile, product design]
-client: Google
+client: Fake Hotel Client
 role: Product designer
 link: google.com
 cover_image: ./images/alvaro-reyes-qWwpHwip31M-unsplash.jpg

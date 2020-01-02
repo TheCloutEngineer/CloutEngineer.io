@@ -1,5 +1,5 @@
 ---
-title: Designing a pattern
+title: Stock Cards App (WIP)
 date: 2019-03-04
 published: true
 tags: [mobile, product design]

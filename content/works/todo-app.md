@@ -1,10 +1,10 @@
 ---
 title: A todo app
-date: 2019-02-20
+date: 2020-01-01
 published: true
-tags: [social, product design]
-client: Google
-role: Product designer
+tags: [Personal, Task Manager]
+client: Myself
+role: Software Engineer
 link: google.com
 cover_image: ./images/luca-bravo-XJXWbfSo2f0-unsplash.jpg
 description: The magic of paint brush and a a little coffee

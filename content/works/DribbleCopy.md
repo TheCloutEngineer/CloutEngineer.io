@@ -1,20 +1,20 @@
 ---
-title: A simple design for Halo
-date: 2019-02-04
+title: Dribble Mock Up
+date: 2019-02-09
 published: true
-tags: [mobile, product design]
+tags: [design, mobile]
 client: Google
-role: Product designer
+role: mobile development
 link: google.com
-cover_image: ./images/boxed-water-is-better-7mr6Yx-8WLc-unsplash.jpg
-description: The magic of paint brush and a a little coffee
+cover_image: ./images/patrick-tomasso-KGcLJwIYiac-unsplash.jpg
+description: This is a demo case study for a mobile app
 ---
 
 # Mobile app demo
 
 They never said winning was easy. Some people can’t handle success, I can. The key is to drink coconut, fresh coconut, trust me. Give thanks to the most high. Surround yourself with angels. They don’t want us to win. Give thanks to the most high. Give thanks to the most high. Fan luv. You should never complain, complaining is a weak emotion, you got life, we breathing, we blessed. We don’t see them, we will never see them. Surround yourself with angels, positive energy, beautiful people, beautiful souls, clean heart, angel.
 
-![an image](./images/krisztian-tabori-IyaNci0CyRk-unsplash.jpg)
+![an image](./images/alvaro-reyes-qWwpHwip31M-unsplash.jpg)
 
 ## This is a heading
 
