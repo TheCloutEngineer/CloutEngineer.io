@@ -3,7 +3,7 @@ title: Journal App
 date: 2019-02-04
 published: true
 tags: [mobile, product design]
-client: Google
+client: Myself
 role: Product designer
 link: google.com
 cover_image: ./images/boxed-water-is-better-7mr6Yx-8WLc-unsplash.jpg

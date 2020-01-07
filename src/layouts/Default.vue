@@ -104,8 +104,8 @@ export default {
   height: 200px;
   display: flex;
   align-items: baseline;
-  /*justify-content: center;*/
-  /*text-align: center;*/
+  justify-content: center;
+  text-align: center;
   color: #FFFEF7;
 
   p {

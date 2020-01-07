@@ -3,7 +3,7 @@
     <div class="about">
       <div class="about-text">
         <h1>About Me</h1>
-        <p>Software Engineer at GSK. Currently, exploring the APIs and cloud development space. I also have experience working on Web Components using <a href="https://lit-element.polymer-project.org/">Lit Elements</a> and <a href="https://material.io/design/">Material Designs</a> by Google on GSK Platforms UI team.</p>
+        <p>Software Engineer at GSK. Currently, exploring the APIs and cloud development space. I also have experience working on Web Components using <a class="aboutLink" href="https://lit-element.polymer-project.org/">Lit Elements</a> and <a href="https://material.io/design/">Material Designs</a> by Google on GSK Platforms UI team.</p>
       </div>
       <div class="about-photo">
         <g-image src="~/assets/images/person.jpg" width="300" />
@@ -25,6 +25,10 @@ export default {
   &-text {
     text-align: left;
   }
+}
+
+.aboutLink {
+  color: black;
 }
 @media screen and (min-width: 768px) {
   .about {
