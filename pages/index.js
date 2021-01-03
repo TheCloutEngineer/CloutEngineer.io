@@ -14,7 +14,7 @@ export default function Index({ allPosts }) {
     <>
       <Layout>
         <Head>
-          <title>Next.js Blog Example with {CMS_NAME}</title>
+          <title>Clout Engineer.io {CMS_NAME}</title>
         </Head>
         <Container>
           <Intro />
