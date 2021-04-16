@@ -1,0 +1,72 @@
+{
+  "headerNavigation": [
+    {
+      "name": "Home",
+      "link": "/",
+      "external": false
+    },
+    {
+      "name": "About",
+      "link": "/about-us",
+      "external": false
+    },
+    {
+      "name": "Resume",
+      "link": "/category/getting-started",
+      "external": false
+    },
+    {
+      "name": "Getting started",
+      "link": "/category/getting-started",
+      "external": false
+    },
+    {
+      "name": "Development Journey",
+      "link": "/category/getting-started",
+      "external": false
+    },
+    {
+      "name": "Hobbies",
+      "link": "/category/getting-started",
+      "external": false
+    },
+    {
+      "name": "More",
+      "link": "#",
+      "children": [
+        {
+          "name": "Black Tech Philly",
+          "link": "blacktechphilly.dev",
+          "external": true
+        },
+        {
+          "name": "Gridsome Docs",
+          "link": "https://www.gridsome.org/docs",
+          "external": true
+        },
+         {
+           "name": "Internal Page ( About )",
+           "link": "/about-us",
+           "external": false
+         }
+      ]
+    }
+  ],
+  "footerNavigation": [
+    {
+      "name": "Latest Posts",
+      "link": "/",
+      "external" : false
+    },
+    {
+      "name": "Github Repo",
+      "link": "https://www.github.com/thecloutengineer",
+      "external": true
+    },
+    {
+      "name": "Gridsome",
+      "link": "https://www.gridsome.org",
+      "external": true
+    }
+  ]
+}

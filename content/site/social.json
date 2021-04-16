@@ -1,0 +1,19 @@
+{
+    "social" : [
+        {
+            "name": "Linkedin",
+            "link": "https://www.linkedin.com/in/khalil-saboor/",
+            "icon": "linkedin"
+        },
+        {
+            "name": "Twitter",
+            "link": "https://twitter.com/_CloutEngineer_",
+            "icon": "twitter"
+        },
+        {
+            "name": "Github",
+            "link": "https://github.com/TheCloutEngineer",
+            "icon": "github"
+        }
+    ]
+}
