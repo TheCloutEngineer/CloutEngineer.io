@@ -17,7 +17,7 @@
     "gridsome-source-static-meta": "github:noxify/gridsome-source-static-meta#master",
     "hooper": "^0.3.4",
     "medium-zoom": "^1.0.6",
-    "minimist": "^1.2.5",
+    "minimist": "^1.2.6",
     "node-sass": "^5.0.0",
     "pluralize": "^8.0.0",
     "postcss": "^8.2.2",
